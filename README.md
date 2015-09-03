@@ -404,3 +404,24 @@ Chrome 43.0.2357 (Linux 0.0.0): Executed 2 of 2 (2 FAILED) ERROR (0.016 secs / 0
 
 Coverage
 karmaのプラグインを利用¶
+
+
+Cordova
+
+    Directory移動
+
+    cd path/to/projectroot
+    npm install cordova -g
+
+    サンプルプロジェクト作成
+
+    cordova create hello com.example.hello HelloWorld
+
+    build, run(実機での起動)
+
+    cd hello
+    cordova platform add android
+    cordova build android
+    cordova run android
+
+
