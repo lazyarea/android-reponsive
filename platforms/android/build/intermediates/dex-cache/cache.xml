@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ksto/Projects/responsive/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e2d73ebf39e89042c9faebea6d7e107340229db7">
+        <dex dex="/home/ksto/Projects/responsive/platforms/android/build/intermediates/pre-dexed/debug/classes-1c6d4825c64dd17abeda5bcd8244e983eda2480c.jar" />
+    </item>
+
+</items>

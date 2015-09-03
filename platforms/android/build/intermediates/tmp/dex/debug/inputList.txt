@@ -1,0 +1,2 @@
+/home/ksto/Projects/responsive/platforms/android/build/intermediates/classes/debug
+/home/ksto/Projects/responsive/platforms/android/build/intermediates/pre-dexed/debug/classes-1c6d4825c64dd17abeda5bcd8244e983eda2480c.jar
